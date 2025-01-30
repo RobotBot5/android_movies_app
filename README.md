@@ -18,6 +18,6 @@ This is an Android application written in Java that allows users to browse a lis
 - **Database:** Room
 
 ## Screenshots
-![main_screen.png](/github/main_screen.png?raw=true "Main Screen")
-![movie_1.png](/github/movie_1.png?raw=true "Movie Details")
-![movie_2.png](/github/movie_2.png?raw=true "Movie Details")
+<img src="/github/main_screen.png?raw=true" alt="Main Screen" width="30%">
+<img src="/github/movie_1.png?raw=true" alt="Movie Details" width="30%">
+<img src="/github/movie_2.png?raw=true" alt="Movie Details" width="30%">
